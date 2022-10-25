@@ -1,10 +1,5 @@
 ### Hi there 👋 I 'm Feng Xie, a PhD candidate in Harbin Institute of Technology.
 
-
-<!--
-**Patrick-xiefeng/Patrick-xiefeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👀 I’m interested in reinforcement learning and radar signal processing.
 - 📫 You can visit my [website](xiefeng.work) for more info about me
 - 🔭 I’m currently working on radar waveform combating.
@@ -19,4 +14,5 @@ Here are some ideas to get you started:
 <a href="https://yizhen20133868.github.io/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhen20133868&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
--->
+
+
